@@ -1,0 +1,5 @@
+python -m pip install pandas
+
+python -m pip install pdblp
+
+python -m pip install --index-url=https://blpapi.bloomberg.com/repository/releases/python/simple blpapi
